@@ -69,9 +69,10 @@ export function Hero() {
           <Player
             autoplay
             loop
-            src="https://lottie.host/c2428951-2c1a-4373-a225-27a65ae84c7e/OeGKwYYWQi.json"
+            src="https://lottie.host/4283f0ef-69e0-4d88-ac94-b7e51af4506a/G5aqCg1loy.json"            
             style={{ height: '500px', width: '500px' }}
           />
+          
         </motion.div>
       </div>
     </section>
