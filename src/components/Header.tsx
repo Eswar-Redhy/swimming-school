@@ -7,7 +7,7 @@ export function Header() {
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <div className="flex items-center space-x-2">
           <Waves className="h-8 w-8" />
-          <span className="text-2xl font-bold">AquaElite</span>
+          <span className="text-2xl font-bold">Aquatic Spirit</span>
         </div>
         <div className="hidden md:flex space-x-8">
           <a href="#services" className="hover:text-blue-200 transition">Services</a>
